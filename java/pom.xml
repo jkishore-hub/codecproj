@@ -35,7 +35,7 @@
         <version>0.5.5.201112152213</version>
            <configuration>
                <destfile>${basedir}/target/coverage-reports/jacoco-unit.exec</destfile>
-               <destfile>${basedir}/target/coverage-reports/jacoco-unit.exec</destfile>
+               <datafile>${basedir}/target/coverage-reports/jacoco-unit.exec</datafile>
               </configuration>
                 <executions>
                   <execution>
